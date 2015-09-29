@@ -5,25 +5,29 @@
 [![License](https://img.shields.io/cocoapods/l/Centesimo.svg?style=flat)](http://cocoapods.org/pods/Centesimo)
 [![Platform](https://img.shields.io/cocoapods/p/Centesimo.svg?style=flat)](http://cocoapods.org/pods/Centesimo)
 
-## Usage
+A Swift library for dealing with money and currency. Inspired by Ruby Money. 
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+## Introduction 
 
-## Requirements
+Centesimo attempts to be a Swift library for dealing with money and currency. It is heavily inspired by the [Ruby Money gem](https://github.com/RubyMoney/money). 
 
-## Installation
+Goals: 
 
-Centesimo is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+* Provide a class for defining a money object and its properties
+* Allow easy string formatting of money and currency
+* Avoid floating point errors in certain operations
+* Provide a way to do currency conversions
 
-```ruby
-pod "Centesimo"
-```
+## Origin of the name
 
-## Author
+I simply looked for a monetary unit that wasn't already an existing GitHub repository. Centesimo fit the bill. Some coins even have birds on them: 
 
-Erik Dungan, erik.dungan@gmail.com
+![coin](http://www.wcoins.com/d_ximages/c498.jpg)
+
+## Creator
+
+Erik Dungan (@callmeed on Twitter) and Kyle Murphy (@shmay)
 
 ## License
 
-Centesimo is available under the MIT license. See the LICENSE file for more info.
+Centesimo is released under the MIT license. See LICENSE for details.
