@@ -1,6 +1,0 @@
-framework module Centesimo {
-  umbrella header "Centesimo-umbrella.h"
-
-  export *
-  module * { export * }
-}
