@@ -1,0 +1,23 @@
+{
+  "name": "BirdMoney",
+  "version": "0.1.0",
+  "summary": "Money and currency handling. Written in Swift. Inspired by Ruby Money.",
+  "homepage": "https://github.com/callmeed/BirdMoney",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Erik Dungan": "erik.dungan@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/callmeed/BirdMoney.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "requires_arc": true,
+  "source_files": "Source/BirdMoney.swift"
+}

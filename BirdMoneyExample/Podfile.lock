@@ -1,0 +1,14 @@
+PODS:
+  - BirdMoney (0.1.0)
+
+DEPENDENCIES:
+  - BirdMoney (from `..`)
+
+EXTERNAL SOURCES:
+  BirdMoney:
+    :path: ..
+
+SPEC CHECKSUMS:
+  BirdMoney: e74cbded9caa67d5c1ced1c4d78ed2c55ab1376e
+
+COCOAPODS: 0.39.0

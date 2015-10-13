@@ -1,0 +1,6 @@
+framework module BirdMoney {
+  umbrella header "BirdMoney-umbrella.h"
+
+  export *
+  module * { export * }
+}
